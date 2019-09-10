@@ -7,6 +7,7 @@ Coffee Chain Data is for Year 2012 and 2013.
 Analysis:
 
 Coffee Product with Maximum Profit: Regular Expresso
+
 Coffee Product with Minimum Profit: Green Tea
 
 Coffee Product with Maximum Expenses: Regular Expresso
